@@ -5,7 +5,7 @@ baseurl: ""
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Flatly
 
 # Authentication
 github_client_id: 462f6d5c1704064ffbf7
